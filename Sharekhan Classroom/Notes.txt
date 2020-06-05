@@ -1,0 +1,13 @@
+*Resistence: Highest high Highest close
+*Suppore : Lowest low lowest close
+*Area of basing : 
+*RSI > 70 - Over bought (Expensive ) then Short sell
+*RSi < 30 - Over Sold (Cheap) then buy
+*For indian market 60 - Over bought and 40 - Over sold   is used.
+*Divergences :
+	Example of classic divergence.
+	Prices : Lower low,   RSI : Higher low -> 	Bullish.    *(Stock should be over sold i.e, 	<40) .
+
+	Prices : higher high, RSI : Lower high -> Bearish 
+ *(Stock should be over sold i.e, >60) .
+
